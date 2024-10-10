@@ -28,7 +28,7 @@
 ## 설치 및 실행 방법 (Installation and Usage)
 
 1. 저장소를 클론합니다: git clone https://github.com/MinhyeongKim0412/Study_Python.git
-2. 2. 각 Day별 Jupyter Notebook 파일을 실행하여 학습 내용을 확인할 수 있습니다.
+2. 각 Day별 Jupyter Notebook 파일을 실행하여 학습 내용을 확인할 수 있습니다.
 
 ## 학습 파일 (Files)
 
